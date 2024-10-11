@@ -8,7 +8,7 @@
         "icon": "https://img.icons8.com/color/48/000000/figma.png"
     },
     {
-        "name": "Adobe Photoshop",
+        "name": "Photoshop",
         "icon": "https://img.icons8.com/color/48/adobe-photoshop--v1.png"
     },
     {
@@ -54,5 +54,9 @@
     {
         "name": "WordPress",
         "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    },
+    {
+        "name": "After Effects",
+        "icon": "https://img.icons8.com/color/48/adobe-after-effects--v1.png"
     }
 ]
